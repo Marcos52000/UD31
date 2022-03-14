@@ -1,0 +1,13 @@
+body{
+    background-image: url(../imagenes/fondo.jpg);
+    height: 100vh;
+}
+
+.card,.header{
+    width: 40%;
+}
+
+#b1{
+    background-color: #4ADDC1;
+    border: #4ADDC1;
+}
